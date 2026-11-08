@@ -1,18 +1,24 @@
+<p align="center"><img src="https://faraztaslimi.github.io/favicon.svg" width="88" alt="FT monogram — Faraz Taslimi"></p>
+
 <h1 align="center">Hi, I'm Faraz Taslimi 👋</h1>
 
 <h3 align="center">Frontend Developer — building complete, visually polished websites with Vanilla JS, Vite & Sass</h3>
 
 <p align="center">
-  <a href="https://github.com/FarazTaslimi"><img src="https://img.shields.io/badge/GitHub-FarazTaslimi-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:Faraz.Taslimi@gmail.com"><img src="https://img.shields.io/badge/Email-Faraz.Taslimi@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://faraztaslimi.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-faraztaslimi.github.io-fb7185?logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://faraztaslimi.github.io/Faraz_Taslimi_CV.pdf"><img src="https://img.shields.io/badge/📄_CV-View_PDF-4bd0c0?logo=adobereader&logoColor=white" alt="CV"></a>
   <a href="https://natorous.netlify.app"><img src="https://img.shields.io/badge/🚀_Live_Project-Natorous-3ce39d" alt="Live project"></a>
+  <a href="https://codepen.io/faraztaslimi"><img src="https://img.shields.io/badge/🧪_CodePen-04_Builds-000000?logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="mailto:Faraz.Taslimi@gmail.com"><img src="https://img.shields.io/badge/Email-Faraz.Taslimi@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 🌍 About me
 
-- 🔭 I design and build **landing pages and full UIs** — currently shipping **[Natorous](https://natorous.netlify.app)**, a fully-responsive expedition-travel landing page
+- ⏱️ **1.5 years** of self-directed frontend learning — **8 months** of focused, hands-on project building
+- 🔭 I design and build **landing pages and full UIs** — shipped **[Natorous](https://natorous.netlify.app)**, a fully-responsive expedition-travel landing page, and my **[portfolio](https://faraztaslimi.github.io)** with a hand-built canvas rain, cloud and lightning system
+- 🎧 Currently building **Now Music** — a player whose whole music source is **Telegram** (playlists live in chats, streamed straight in the browser)
 - 🧩 I like the **framework-free path**: component architecture in pure Vanilla JS (ES modules), rendered from a single JSON config
 - 🎨 Obsessed with **structure**: SCSS 7-1 architecture, BEM naming, token-driven design systems
 - 🛠️ Comfortable going end-to-end: design exploration (Figma / AI-assisted assets) → build → **deploy with GitHub + Netlify auto-deploy**
@@ -37,12 +43,37 @@ A dark-editorial, fully-responsive site built with **Vite + Sass (7-1) + BEM** a
 </td>
 <td width="40%" valign="middle">
 
-[![Natorous](https://img.shields.io/badge/Natorous-v3.0-0c110d?style=for-the-badge&logo=webpack&logoColor=3ce39d)](https://github.com/FarazTaslimi/Natorous)
+[![Natorous](https://img.shields.io/badge/Natorous-Expedition_Travel-0c110d?style=for-the-badge&logo=vite&logoColor=3ce39d)](https://github.com/FarazTaslimi/Natorous)
 [![Live](https://img.shields.io/badge/DEPLOYED-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://natorous.netlify.app)
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🎧 Now building — Now Music
+
+![Status](https://img.shields.io/badge/STATUS-In_Development-4bd0c0)
+
+A music player with one twist: **the whole music source is Telegram.** Playlists and audio live in Telegram chats — the player streams them right in the browser. Your Telegram library becomes the backend, with queue, lyrics and now-playing UI on top.
+
+Design locked · audio engine under construction · built in the open.
+
+▶️ **[Player prototype on CodePen](https://codepen.io/faraztaslimi/pen/01a1b6dd-6a5d-75c3-9e54-afb9ab510b72)**
+
+---
+
+### 🧪 CodePen Lab — 4 builds
+
+| Build | What it is |
+|---|---|
+| **[Natorous — Data-Driven Tour Cards](https://codepen.io/faraztaslimi/pen/01a1b5f5-64ca-7cee-8af0-07969789ff36)** | Vanilla JS tour cards rendered from data |
+| **[FT Elements](https://codepen.io/faraztaslimi/pen/01a1b730-9d96-7e9f-8656-d3499b6f2c48)** | Custom HTML tags — real components without a framework |
+| **[Now Playing](https://codepen.io/faraztaslimi/pen/01a1b6dd-6a5d-75c3-9e54-afb9ab510b72)** | NCS music cards + custom player (the Now Music prototype) |
+| **[FT Monogram](https://codepen.io/faraztaslimi/pen/01a1b5bd-396b-73ae-acec-b86dc0a54310)** | Pure CSS brand badge |
+
+More on **[CodePen →](https://codepen.io/faraztaslimi)**
 
 ---
 
@@ -78,8 +109,9 @@ A dark-editorial, fully-responsive site built with **Vite + Sass (7-1) + BEM** a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarazTaslimi&show_icons=true&hide_border=true&bg_color=0c110d&title_color=3ce39d&icon_color=3ce39d&text_color=9dafa3" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazTaslimi&layout=compact&hide_border=true&bg_color=0c110d&title_color=3ce39d&text_color=9dafa3" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarazTaslimi&show_icons=true&hide_border=true&bg_color=0a101c&title_color=3ce39d&icon_color=3ce39d&text_color=e7eef7" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazTaslimi&layout=compact&hide_border=true&bg_color=0a101c&title_color=3ce39d&text_color=e7eef7" alt="Top languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=FarazTaslimi&hide_border=true&background=0A101C&ring=3CE39D&fire=FB7185&currStreakNum=E7EEF7&sideNums=E7EEF7&currStreakLabel=3CE39D&sideLabels=9DAFA3&dates=9DAFA3" alt="GitHub streak" height="165">
 </p>
 
 ---
@@ -87,8 +119,14 @@ A dark-editorial, fully-responsive site built with **Vite + Sass (7-1) + BEM** a
 <h3 align="center">📫 Let's connect</h3>
 
 <p align="center">
-  <a href="mailto:Faraz.Taslimi@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Faraz.Taslimi@gmail.com-EA4335?style=flat-square" alt="Email"></a>
-  <a href="https://github.com/FarazTaslimi"><img src="https://img.shields.io/badge/💻_GitHub-FarazTaslimi-181717?style=flat-square" alt="GitHub"></a>
+  <a href="mailto:Faraz.Taslimi@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Faraz.Taslimi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/FarazTaslimi"><img src="https://img.shields.io/badge/💻_GitHub-FarazTaslimi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://codepen.io/faraztaslimi"><img src="https://img.shields.io/badge/🧪_CodePen-faraztaslimi-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="https://www.linkedin.com/in/faraztaslimi/"><img src="https://img.shields.io/badge/💼_LinkedIn-faraztaslimi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/faraz_taslimi"><img src="https://img.shields.io/badge/✈️_Telegram-@faraz__taslimi-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://instagram.com/faraz_taslimi"><img src="https://img.shields.io/badge/📷_Instagram-@faraz__taslimi-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.figma.com/@faraztaslimi"><img src="https://img.shields.io/badge/🎨_Figma-@faraztaslimi-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.behance.net/faraztaslimi"><img src="https://img.shields.io/badge/🖼️_Behance-faraztaslimi-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
 </p>
 
 <p align="center"><i>“Go beyond the map.”</i></p>
