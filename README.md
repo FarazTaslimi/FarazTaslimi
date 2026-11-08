@@ -109,10 +109,17 @@ More on **[CodePen →](https://codepen.io/faraztaslimi)**
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarazTaslimi&show_icons=true&hide_border=true&bg_color=0a101c&title_color=3ce39d&icon_color=3ce39d&text_color=e7eef7" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazTaslimi&layout=compact&hide_border=true&bg_color=0a101c&title_color=3ce39d&text_color=e7eef7" alt="Top languages" height="165">
   <img src="https://streak-stats.demolab.com/?user=FarazTaslimi&hide_border=true&background=0A101C&ring=3CE39D&fire=FB7185&currStreakNum=E7EEF7&sideNums=E7EEF7&currStreakLabel=3CE39D&sideLabels=9DAFA3&dates=9DAFA3" alt="GitHub streak" height="165">
 </p>
+
+<!-- The classic stats cards are commented out: their free shared server
+     (github-readme-stats.vercel.app) is rate-limited and returns 503 to everyone.
+     Reliable fix: self-host it in ~5 min on Vercel (fork the repo → import → deploy),
+     then uncomment the two lines below and replace YOUR_VERCEL_PROJECT with your URL:
+
+<img src="https://YOUR_VERCEL_PROJECT.vercel.app/api?username=FarazTaslimi&show_icons=true&hide_border=true&bg_color=0a101c&title_color=3ce39d&icon_color=3ce39d&text_color=e7eef7" alt="GitHub stats" height="165">
+<img src="https://YOUR_VERCEL_PROJECT.vercel.app/api/top-langs/?username=FarazTaslimi&layout=compact&hide_border=true&bg_color=0a101c&title_color=3ce39d&text_color=e7eef7" alt="Top languages" height="165">
+-->
 
 ---
 
